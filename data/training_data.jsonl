@@ -1,0 +1,3 @@
+{"prompt": "Extract the total approved amount from the following: The approved amount is $5,000 CAD.", "completion": "$5,000 CAD"}
+{"prompt": "What is the patient's diagnosis? The diagnosis was reported as 'Chronic back pain'.", "completion": "Chronic back pain"}
+{"prompt": "Extract the rehab end date: Rehabilitation completed on February 1, 2023.", "completion": "February 1, 2023"}

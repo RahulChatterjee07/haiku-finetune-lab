@@ -1,0 +1,4 @@
+model_id: anthropic.claude-haiku-v1
+epochs: 3
+batch_size: 8
+learning_rate: 5e-6

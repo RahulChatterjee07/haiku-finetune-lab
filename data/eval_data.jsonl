@@ -1,0 +1,2 @@
+{"prompt": "Extract the diagnosis from this note: Final diagnosis - Post-traumatic stress disorder.", "expected": "Post-traumatic stress disorder"}
+{"prompt": "Pull the claim value from: A total of $10,000 CAD was approved for this claim.", "expected": "$10,000 CAD"}
